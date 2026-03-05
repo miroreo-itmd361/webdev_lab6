@@ -26,10 +26,10 @@
   color: white;
   font-size: 1.8em;} */
 
-  #page-wrapper
-{ margin-top: 20px;
+  
+/* { margin-top: 20px;
   margin-left: 20px;
-  margin-bottom: 20px;}
+  margin-bottom: 20px;} */
 
 #header h1 { position: absolute;
   left: 420px;
@@ -46,7 +46,7 @@
   height: 80px;
   clear: both;} */
 
-#side-content{ list-style-type: none;
+#main-nav ul{ list-style-type: none;
   margin: 0;
   padding: 0;
   float: left;
@@ -92,10 +92,10 @@ h2 strong{ font-size: 2em;
 { background-color: #ccc;
   color: #333;}
 
-/* { width: 960px;
+#page-wrapper { width: 960px;
   margin: 0 auto;
   box-shadow: 0px 4px 8px 2px rgba(0, 0, 0, 1);
-  border-radius: 12px 12px 0px 0px; } */
+  border-radius: 12px 12px 0px 0px; }
 
 #side-content{ float: left;
   position: relative;
